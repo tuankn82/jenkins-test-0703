@@ -1,2 +1,2 @@
 [server] 
-54.198.243.201 ansible_user="ubuntu" ansible_python_interpreter='/usr/bin/env python3ansible_ssh_extra_args='-oStrictHostKeyChecking=no'
+54.165.103.23 ansible_user="ubuntu" ansible_python_interpreter='/usr/bin/env python3ansible_ssh_extra_args='-oStrictHostKeyChecking=no'
